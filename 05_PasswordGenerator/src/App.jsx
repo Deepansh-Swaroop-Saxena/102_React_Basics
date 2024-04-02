@@ -98,7 +98,7 @@ useEffect(() => {passwordgenerator()}, [length,numAllowed,charAllowed,passwordge
 
           />
           <label htmlFor="charwnum">Characters</label>
-          </div>
+          </div>-
 
           
         
